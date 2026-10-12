@@ -1,0 +1,10 @@
+[
+  { "id": "tackle",       "name": "Tackle",       "element": "normal", "category": "physical", "power": 40, "accuracy": 100, "priority": 0, "anim": "attack" },
+  { "id": "quick_strike", "name": "Quick strike", "element": "normal", "category": "physical", "power": 30, "accuracy": 100, "priority": 1, "anim": "attack" },
+  { "id": "ember",        "name": "Ember",        "element": "fire",   "category": "magic",    "power": 55, "accuracy": 95,  "priority": 0, "anim": "attack" },
+  { "id": "flame_burst",  "name": "Flame burst",  "element": "fire",   "category": "magic",    "power": 85, "accuracy": 80,  "priority": 0, "anim": "special" },
+  { "id": "water_gun",    "name": "Water gun",    "element": "water",  "category": "magic",    "power": 55, "accuracy": 95,  "priority": 0, "anim": "attack" },
+  { "id": "tidal_crash",  "name": "Tidal crash",  "element": "water",  "category": "physical", "power": 85, "accuracy": 80,  "priority": 0, "anim": "special" },
+  { "id": "vine_whip",    "name": "Vine whip",    "element": "grass",  "category": "physical", "power": 55, "accuracy": 95,  "priority": 0, "anim": "attack" },
+  { "id": "solar_beam",   "name": "Solar beam",   "element": "grass",  "category": "magic",    "power": 85, "accuracy": 80,  "priority": 0, "anim": "special" }
+]

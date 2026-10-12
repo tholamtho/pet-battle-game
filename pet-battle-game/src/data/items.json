@@ -1,0 +1,137 @@
+[
+ {
+  "id": "exp_candy_s",
+  "name": "Small exp candy",
+  "description": "Gives a pet 100 exp.",
+  "type": "consumable",
+  "rarity": "common",
+  "slot": null,
+  "stats": {},
+  "effect": {
+   "exp": 100
+  },
+  "hatchSeconds": null,
+  "price": 50
+ },
+ {
+  "id": "exp_candy_m",
+  "name": "Medium exp candy",
+  "description": "Gives a pet 500 exp.",
+  "type": "consumable",
+  "rarity": "rare",
+  "slot": null,
+  "stats": {},
+  "effect": {
+   "exp": 500
+  },
+  "hatchSeconds": null,
+  "price": 200
+ },
+ {
+  "id": "incubator_boost",
+  "name": "Incubator boost",
+  "description": "Shortens an egg's hatching by 5 minutes.",
+  "type": "consumable",
+  "rarity": "common",
+  "slot": null,
+  "stats": {},
+  "effect": {
+   "hatchSeconds": 300
+  },
+  "hatchSeconds": null,
+  "price": 100
+ },
+ {
+  "id": "evolution_stone",
+  "name": "Evolution stone",
+  "description": "Some pets need this to evolve.",
+  "type": "material",
+  "rarity": "rare",
+  "slot": null,
+  "stats": {},
+  "effect": {},
+  "hatchSeconds": null,
+  "price": null
+ },
+ {
+  "id": "egg_common",
+  "name": "Common egg",
+  "description": "Hatches in 10 minutes.",
+  "type": "egg",
+  "rarity": "common",
+  "slot": null,
+  "stats": {},
+  "effect": {},
+  "hatchSeconds": 600,
+  "price": 300
+ },
+ {
+  "id": "egg_fire",
+  "name": "Ember egg",
+  "description": "A warm egg. Hatches in 30 minutes.",
+  "type": "egg",
+  "rarity": "rare",
+  "slot": null,
+  "stats": {},
+  "effect": {},
+  "hatchSeconds": 1800,
+  "price": 600
+ },
+ {
+  "id": "leaf_hat",
+  "name": "Leaf hat",
+  "description": "+3 defense.",
+  "type": "equipment",
+  "rarity": "common",
+  "slot": "head",
+  "stats": {
+   "def": 3
+  },
+  "effect": {},
+  "hatchSeconds": null,
+  "price": 150
+ },
+ {
+  "id": "flame_scarf",
+  "name": "Flame scarf",
+  "description": "+4 attack, +2 special attack.",
+  "type": "equipment",
+  "rarity": "rare",
+  "slot": "body",
+  "stats": {
+   "atk": 4,
+   "spAtk": 2
+  },
+  "effect": {},
+  "hatchSeconds": null,
+  "price": 400
+ },
+ {
+  "id": "swift_cape",
+  "name": "Swift cape",
+  "description": "+5 speed.",
+  "type": "equipment",
+  "rarity": "rare",
+  "slot": "back",
+  "stats": {
+   "speed": 5
+  },
+  "effect": {},
+  "hatchSeconds": null,
+  "price": 400
+ },
+ {
+  "id": "lucky_charm",
+  "name": "Lucky charm",
+  "description": "+8 HP.",
+  "type": "equipment",
+  "rarity": "common",
+  "slot": "accessory",
+  "stats": {
+   "hp": 8
+  },
+  "effect": {},
+  "hatchSeconds": null,
+  "price": 200
+ }
+]

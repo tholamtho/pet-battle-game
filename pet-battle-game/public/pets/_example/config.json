@@ -1,0 +1,19 @@
+{
+  "model": "model.glb",
+  "scale": 1,
+  "rotationY": 0,
+  "yOffset": 0,
+  "animations": {
+    "idle": "Armature|Idle",
+    "attack": "Armature|Bite",
+    "hit": "Armature|GetHit",
+    "special": "Armature|FireBreath",
+    "faint": "Armature|Die"
+  },
+  "skillAnimations": {
+    "flame_burst": "special",
+    "ember": "Armature|Spit"
+  },
+  "timing": { "attackImpact": 0.35, "specialImpact": 0.9 },
+  "lunge": false
+}

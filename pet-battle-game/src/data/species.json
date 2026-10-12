@@ -1,0 +1,11 @@
+[
+  { "id": "flamey", "name": "Flamey", "elements": ["fire"],  "isStarter": true,
+    "baseStats": { "hp": 60, "atk": 65, "def": 50, "spAtk": 75, "spDef": 55, "speed": 70 },
+    "skills": [ { "skillId": "tackle", "learnLevel": 1 }, { "skillId": "quick_strike", "learnLevel": 1 }, { "skillId": "ember", "learnLevel": 1 }, { "skillId": "flame_burst", "learnLevel": 10 } ] },
+  { "id": "aquo", "name": "Aquo", "elements": ["water"], "isStarter": true,
+    "baseStats": { "hp": 75, "atk": 55, "def": 70, "spAtk": 65, "spDef": 70, "speed": 50 },
+    "skills": [ { "skillId": "tackle", "learnLevel": 1 }, { "skillId": "quick_strike", "learnLevel": 1 }, { "skillId": "water_gun", "learnLevel": 1 }, { "skillId": "tidal_crash", "learnLevel": 10 } ] },
+  { "id": "leafy", "name": "Leafy", "elements": ["grass"], "isStarter": true,
+    "baseStats": { "hp": 70, "atk": 60, "def": 65, "spAtk": 70, "spDef": 65, "speed": 55 },
+    "skills": [ { "skillId": "tackle", "learnLevel": 1 }, { "skillId": "quick_strike", "learnLevel": 1 }, { "skillId": "vine_whip", "learnLevel": 1 }, { "skillId": "solar_beam", "learnLevel": 10 } ] }
+]
